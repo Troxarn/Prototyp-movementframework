@@ -1,11 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-<<<<<<< HEAD
-heyhey
-=======
-Velocity = 5
 
->>>>>>> 120cd5b30b3fafc27bb856aef22d89569bd39a09
+HejHejVariable = true
+
 //Gamepad stuffs
 gamepad_set_axis_deadzone(0, 0.01);
 
