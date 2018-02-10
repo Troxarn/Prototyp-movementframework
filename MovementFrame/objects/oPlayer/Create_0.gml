@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+Velocity = 5
 
 //Gamepad stuffs
 gamepad_set_axis_deadzone(0, 0.01);
