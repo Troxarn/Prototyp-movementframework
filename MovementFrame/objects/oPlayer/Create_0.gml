@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 //Gamepad stuffs
-gamepad_set_axis_deadzone(0, 0.1);
+gamepad_set_axis_deadzone(0, 0.01);
 
 //Horizontal speed
 hsp = 0;
