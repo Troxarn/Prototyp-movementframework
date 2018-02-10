@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2bca5f33-ce0b-4724-83ad-c6d9a1abe728",
+            "Value": {
+                "id": "14bba714-5325-43ec-b034-3a2c53d1cc79",
+                "resourcePath": "objects\\oExplosionTest\\oExplosionTest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2d4ba0b1-51d1-4b77-8b0c-ebfd9dbd0385",
             "Value": {
                 "id": "c01a4064-bb72-433c-8355-92410986e71d",
