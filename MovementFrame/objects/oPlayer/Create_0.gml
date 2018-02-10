@@ -2,6 +2,8 @@
 // You can write your code in this editor
 Velocity = 5
 
+HejHejVariable = true
+
 //Gamepad stuffs
 gamepad_set_axis_deadzone(0, 0.01);
 
